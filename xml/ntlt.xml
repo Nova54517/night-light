@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8">
+
+ <nightlight property="ntlt-main-xml"
+  <text size="1" id="ntlt-main-text ntlt-main-text-black" text="" />
+  <func property="ntlt-func ntlt-func-basic" id="ntlt-no-loop"><new /></func>
+  <func property="ntlt-xml-func-0 ntlt-xml-func-2" id="ntlt-no-loop"><new /></func>
+ />
+ <nightlight property="ntlt-example ntlt-text"
+  <text property="ntlt-prop-text" ?>Hello World</text>
+  <text property="ntlt-prop-text text-size-1" ?>Hello</text>
+  <text property="ntlt-prop-text text-size-1" copy ?>World</text>
+  />
+  
+  <!-- nightlight xml properties -->
